@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Durante uma partida de vôlei, sua equipe está em um momento cruial do jogo. O placar está empatado no quinto set, e o próximo ponto será decisivo para a vitória. A bola é levantada para o atacante da sua equipe, mas a defesa adversária está bem posicionada para o bloqueio. Em que situação você se sentiria mais confiante para usar uma técnica específica de ataque para superar o bloqueio adversário?",
+        enunciado: "Durante uma partida de vôlei, sua equipe está em um momento crucial do jogo. O placar está empatado no quinto set, e o próximo ponto será decisivo para a vitória. A bola é levantada para o atacante da sua equipe, mas a defesa adversária está bem posicionada para o bloqueio. Em que situação você se sentiria mais confiante para usar uma técnica específica de ataque para superar o bloqueio adversário?",
         alternativas: [
             {
                 texto: "Eu me sentiria mais confiante em utilizar a cortada diagonal quando percebo que o bloqueio está centralizado, deixando as laterais da quadra mais vulneráveis.",
